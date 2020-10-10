@@ -1,12 +1,12 @@
 pragma solidity ^0.6.8;
 pragma experimental ABIEncoderV2;
 
-import "multi-token-standard/contracts/interfaces/IERC20.sol";
-import "multi-token-standard/contracts/interfaces/IERC165.sol";
-import "multi-token-standard/contracts/interfaces/IERC1155.sol";
-import "multi-token-standard/contracts/interfaces/IERC1155TokenReceiver.sol";
-import "multi-token-standard/contracts/tokens/ERC1155/ERC1155Meta.sol";
-import "multi-token-standard/contracts/tokens/ERC1155/ERC1155MintBurn.sol";
+import "@multi-token-standard/contracts/interfaces/IERC20.sol";
+import "@multi-token-standard/contracts/interfaces/IERC165.sol";
+import "@multi-token-standard/contracts/interfaces/IERC1155.sol";
+import "@multi-token-standard/contracts/interfaces/IERC1155TokenReceiver.sol";
+import "@multi-token-standard/contracts/tokens/ERC1155/ERC1155Meta.sol";
+import "@multi-token-standard/contracts/tokens/ERC1155/ERC1155MintBurn.sol";
 
 
 /**
