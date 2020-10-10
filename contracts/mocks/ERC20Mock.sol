@@ -1,7 +1,7 @@
 pragma solidity ^0.6.8;
 
-import "multi-token-standard/contracts/interfaces/IERC20.sol";
-import "multi-token-standard/contracts/utils/SafeMath.sol";
+import "../interfaces/IERC20.sol";
+import "../utils/SafeMath.sol";
 
 
 /**
