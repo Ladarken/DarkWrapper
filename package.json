@@ -70,6 +70,7 @@
     "typescript": "3.9.2"
   },
   "dependencies": {
+    "@openzeppelin/cli": "^2.8.2",
     "multi-token-standard": "^0.9.6"
   }
 }
