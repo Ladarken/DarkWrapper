@@ -1388,7 +1388,7 @@ pragma experimental ABIEncoderV2;
  *   ERC-20 is assigned an ERC-1155 id for more efficient CALLDATA usage when
  *   doing transfers.
  */
-contract MetaERC20Wrapper is ERC1155Meta, ERC1155MintBurn {
+contract flatMetaERC20Wrapper is ERC1155Meta, ERC1155MintBurn {
 
   // Variables
   uint256 internal nTokens = 1;                         // Number of ERC-20 tokens registered
