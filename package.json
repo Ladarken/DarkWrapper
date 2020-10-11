@@ -73,6 +73,7 @@
   "dependencies": {
     "@openzeppelin/cli": "^2.8.2",
     "@truffle/hdwallet-provider": "^1.1.0",
-    "multi-token-standard": "^0.9.6"
+    "multi-token-standard": "^0.9.6",
+    "truffle-flattener": "^1.5.0"
   }
 }
