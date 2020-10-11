@@ -1,5 +1,4 @@
 pragma solidity ^0.6.8;
-pragma experimental ABIEncoderV2;
 
 import "./ERC1155PackedBalance.sol";
 import "../../interfaces/IERC20.sol";
