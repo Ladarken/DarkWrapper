@@ -1,0 +1,14 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "DarkWrapper/flatMetaERC20Wrapper": [
+      {
+        "address": "0xa99dD081a242F04B604e346b9a2a870095F3f32d",
+        "kind": "NonProxy",
+        "bytecodeHash": "3ea1498eee73223d54414b8887b98efc2ef49603cfad4a28a6940208dd242d5d"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
