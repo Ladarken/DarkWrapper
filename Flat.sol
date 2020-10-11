@@ -311,7 +311,12 @@ abstract contract ERC165 {
 
 // File: contracts\tokens\ERC1155\ERC1155.sol
 
-pragma solidity ^0.6.8;
+pragma solidity ^0.6.8;
+
+
+
+
+
 
 
 /**
@@ -729,7 +734,10 @@ contract LibEIP712 {
 
 // File: contracts\utils\SignatureValidator.sol
 
-pragma solidity ^0.6.8;
+pragma solidity ^0.6.8;
+
+
+
 
 /**
  * @dev Contains logic for signature validation.
@@ -878,7 +886,12 @@ contract SignatureValidator is LibEIP712 {
 // File: contracts\tokens\ERC1155\ERC1155Meta.sol
 
 pragma solidity ^0.6.8;
-pragma experimental ABIEncoderV2;
+
+
+
+
+
+
 
 
 /**
@@ -1250,7 +1263,8 @@ contract ERC1155Meta is ERC1155, SignatureValidator {
 
 // File: contracts\tokens\ERC1155\ERC1155MintBurn.sol
 
-pragma solidity ^0.6.8;
+pragma solidity ^0.6.8;
+
 
 
 /**
@@ -1359,7 +1373,13 @@ contract ERC1155MintBurn is ERC1155 {
 // File: contracts\wrapper\MetaERC20Wrapper.sol
 
 pragma solidity ^0.6.8;
-pragma experimental ABIEncoderV2;
+pragma experimental ABIEncoderV2;
+
+
+
+
+
+
 
 
 /**
